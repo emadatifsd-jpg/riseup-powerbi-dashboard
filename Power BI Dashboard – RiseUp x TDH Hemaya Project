@@ -1,0 +1,46 @@
+# 📊 Power BI Dashboard – RiseUp x TDH Hemaya Project
+
+This is an interactive Power BI dashboard created as part of the Data Analysis training provided by **RiseUp Learning Solution** in collaboration with **Terre des Hommes (TDH)** under the **Hemaya Project** in Egypt.
+
+## 🎯 Project Overview
+
+The dashboard analyzes [🔁 *replace this with your project topic, e.g., sales data, customer insights, refugee support*], providing meaningful visualizations to support decision-making.
+
+It showcases key KPIs, trends, and comparisons using interactive charts, slicers, and DAX measures.
+
+## 🛠 Tools & Skills Used
+
+- Power BI (Data visualization)
+- Power Query (Data cleaning and transformation)
+- DAX (Calculations and measures)
+- Excel / CSV (Data source)
+
+## 📁 Files Included
+
+- `Dashboard.pbix` – The Power BI report file  
+- `DataSource.xlsx` – (Optional) Source data  
+- `Screenshot.png` – Image preview of the dashboard  
+- `README.md` – This file
+
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](Screenshot.png)
+
+## 🧠 What I Learned
+
+- How to clean and transform raw data using Power Query
+- How to build insightful visuals in Power BI
+- Creating dynamic reports using DAX and slicers
+- Presenting data to support real-world decisions
+
+## 🙌 Acknowledgements
+
+Special thanks to:
+- **RiseUp Learning Solution** for the technical training  
+- **TDH Hemaya Project** for the opportunity  
+- Our mentors and fellow trainees for support and feedback
+
+---
+
+> 📌 *This project represents a milestone in my journey to become a data analyst. Feedback is welcome!*
+
